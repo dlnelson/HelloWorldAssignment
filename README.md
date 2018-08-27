@@ -12,7 +12,9 @@ First, locate and copy the "clone URL" for this repository:
 Then, launch Eclipse.  If you don't see the welcome screen, choose
 **Welcome** from the **Help** menu.
 
-If you're repeating this exercise from home, and you don't have Eclipse installed, yet.  You can download it from https://www.eclipse.org/downloads/.
+If you're repeating this exercise from home, and you don't have
+Eclipse installed yet, you can download it from
+https://www.eclipse.org/downloads/.
 
 Choose **Checkout projects from Git**:
 
@@ -23,7 +25,7 @@ In the dialog that appears, select **Clone URI** and click **Next**.
 Paste the URL you copied from GitHub in the URI field.  If the URL was
 in your clipboard, Eclipse will automatically fill it in.
 
-Enter your GitHub username and password in the **Authenticaton** area.
+Enter your GitHub username and password in the **Authentication** area.
 You can check the box to store your credentials if you like.  If you
 don't, it just means you'll be prompted for them occasionally.
 
@@ -47,6 +49,9 @@ Then double-click on **HelloWorld.java** to open it in the editor.
 
 Enter the following code as shown: `System.out.println("Hello World");`
 
+Make sure you get the spelling, capitalization, and punctuation
+exactly as shown.
+
 ![Hello World](doc/HelloWorld.png)
 
 Save (Ctrl+S) and click the Run button on the toolbar.
@@ -63,7 +68,7 @@ starting any new programming language.
 
 Now it's time to upload your work back to GitHub.  You don't need to
 wait until you're done to do this.  Indeed, you should get in the
-habbit of pushing your work-in-progress to GitHub to facilitate
+habit of pushing your work-in-progress to GitHub to facilitate
 working on it from multiple locations (i.e., home and school), and as
 a backup in case the worst happens to your computer.
 
