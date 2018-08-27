@@ -1,12 +1,18 @@
 # Hello, World!
 
+This assignment is to familiarize you with GitHub and Eclipse, and to
+make sure you're set-up to write, test, and submit code.
+
 ## Cloning the Repository
 
 First, locate and copy the "clone URL" for this repository:
 
 ![Clone URL](doc/Clone.png)
 
-Then, launch Eclipse.  If you don't see the welcome screen, choose **Welcome** from the **Help** menu.
+Then, launch Eclipse.  If you don't see the welcome screen, choose
+**Welcome** from the **Help** menu.
+
+If you're repeating this exercise from home, and you don't have Eclipse installed, yet.  You can download it from [https://www.eclipse.org/downloads/].
 
 Choose **Checkout projects from Git**:
 
@@ -23,7 +29,9 @@ don't, it just means you'll be prompted for them occasionally.
 
 ![Source Git Repository](doc/SourceGitRepository.png)
 
-Click Next, Next, Next, Next, Finish.
+Click Next, Next, Next, Next, Finish.  *If you're the curious type and
+don't get confused easily, try reading the dialogs you're clicking
+through and guess what they're talking about.*
 
 Eclipse should open the Java perspective:
 
