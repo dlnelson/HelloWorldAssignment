@@ -12,7 +12,7 @@ First, locate and copy the "clone URL" for this repository:
 Then, launch Eclipse.  If you don't see the welcome screen, choose
 **Welcome** from the **Help** menu.
 
-If you're repeating this exercise from home, and you don't have Eclipse installed, yet.  You can download it from [https://www.eclipse.org/downloads/].
+If you're repeating this exercise from home, and you don't have Eclipse installed, yet.  You can download it from https://www.eclipse.org/downloads/.
 
 Choose **Checkout projects from Git**:
 
