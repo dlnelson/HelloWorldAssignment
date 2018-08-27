@@ -47,7 +47,7 @@ Then double-click on **HelloWorld.java** to open it in the editor.
 
 ![Java Editor](doc/JavaEditor.png)
 
-Enter the following code as shown: `System.out.println("Hello World");`
+Enter the following code: `System.out.println("Hello World");`
 
 Make sure you get the spelling, capitalization, and punctuation
 exactly as shown.
@@ -74,12 +74,12 @@ a backup in case the worst happens to your computer.
 
 In the **Package Explorer** on the left, **right-click** on
 *HelloWorld* (the top-most node in the tree).  Go all the way down to
-the **team** sub-menu and choose **Commit...*.  Alternatively, you can
+the **Team** sub-menu and choose **Commit...**.  Alternatively, you can
 use the keyboard shortcut Ctrl+# (Ctrl+Shift+3), if you find that
 easier.
 
 The **Git Staging** tab should come into focus, and your modified file
-(*HelloWorld.java*) should appear in the **Stages Changes** area.  (If
+(*HelloWorld.java*) should appear in the **Staged Changes** area.  (If
 it instead appears in **Unstaged Changes**, click the green ++ icon.)
 
 ![Commit](doc/Commit.png)
@@ -90,12 +90,12 @@ World`.  Click **Commit and Push...**.  Enter your username and
 password, if prompted.
 
 After a little while, you should get a confirmation dialog with some
-inscrutable gibberish.  Just clock **Close**.
+inscrutable gibberish.  Just click **Close**.
 
 ![Push](doc/Push.png)
 
 Go back to GitHub and refresh your repository.  If you navigate to
-your changed file (src/HelloWorld.java), you should see your changes.
+your changed file (*src/HelloWorld.java*), you should see your changes.
 
 Your work has now been submitted.
 
